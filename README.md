@@ -43,7 +43,8 @@ Al detectar y explorar valores faltantes en datasets, podrás enriquecerlos a tr
 ![](https://static.platzi.com/cdn-cgi/image/,width=300,quality=100,format=auto/https://thumbs.cdn.mdstrm.com/thumbs/512e13acaca1ebcd2f000279/thumb_6351b6e9d23c6b089a9c938f_6351b6e9d23c6b089a9c939b_50s.jpg)
 
 - [Visualizar y eliminar valores faltantes](https://platzi.com/clases/4197-datos-faltantes-imputacion/55397-visualizar-y-eliminar-valores-faltantes/) 
-  ![](https://static.platzi.com/cdn-cgi/image/,width=300,quality=100,format=auto/https://thumbs.cdn.mdstrm.com/thumbs/512e13acaca1ebcd2f000279/thumb_6351b7167986c1088b0a3ddb_6351b7167986c1088b0a3de7_58s.jpg)
+
+![](https://static.platzi.com/cdn-cgi/image/,width=300,quality=100,format=auto/https://thumbs.cdn.mdstrm.com/thumbs/512e13acaca1ebcd2f000279/thumb_6351b7167986c1088b0a3ddb_6351b7167986c1088b0a3de7_58s.jpg)
 
 - [Implicaciones de los distintos tipos de valores faltantes](https://platzi.com/clases/4197-datos-faltantes-imputacion/55398-implicaciones-de-los-distintos-tipos-de-valores-fa/)
 
